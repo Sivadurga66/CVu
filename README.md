@@ -8,7 +8,7 @@
   <body>
     <table>
       <tr>
-        <td><img src="jj(1)-modified.png" height="350" width="350"alt=""></td>
+        <img src="jj(1)-modified.png" height="350" width="350"alt="">
   <td><h1><b>SIVA DURGA</b></h1>
     <br>
     <p>My name is siva durga .
@@ -41,49 +41,6 @@
 <a href="/home/rguktongole/Documents/hg/hh.html/contact.html"><b>contact me</b></a>
 <hr>
 <h3>skills</h3>
-<table>
-  <tr>
-    <td>
-      <tr>
-      <td>sython</td>
-      <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>java</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td> c language </td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td> c++ </td>
-        <td>⭐⭐</td>
-      </tr>
-    </td>
-    <td>
-      <table>
-        <tr>
-        <td>sython</td>
-        <td>⭐⭐⭐⭐⭐</td>
-        </tr>
-        <tr>
-          <td>java</td>
-          <td>⭐⭐⭐⭐</td>
-        </tr>
-        <tr>
-          <td> c language </td>
-          <td>⭐⭐⭐</td>
-        </tr>
-        <tr>
-          <td> c++ </td>
-          <td>⭐⭐</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 
 <h1>skills</h1>
 <table>
